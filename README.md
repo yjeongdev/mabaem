@@ -10,7 +10,7 @@
    My name is Yeji Jeong. I'm a Web Developer in South Korea.  <br>    
    I have interest in analyzing system code, understanding processes and user experience.   <br>
 </div>
-
+<br>
 * * *
    
 <!-- 뱃지 -->
@@ -84,7 +84,7 @@
    e-mail : <a href="mailto:jyeji75@gmail.com">jyeji75@gmail.com</a><br>
    instagram : <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a>
 </div>
-
+<br>
 * * *
 
 <!-- GitHub 사용 언어 -->
