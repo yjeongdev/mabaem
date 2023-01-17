@@ -6,14 +6,13 @@
 
 <div>
    Hello World!   
-   Welcome to my GitHub Repository.   
-   My name is Yeji Jeong. I'm a Web Developer in South Korea.   
-   I have interest in analyzing system code, understanding processes and user experience.      
+   Welcome to my GitHub Repository.      
+   My name is Yeji Jeong. I'm a Web Developer in South Korea.      
+   I have interest in analyzing system code, understanding processes and user experience.         
       
    Send "Hello World!" to me on instagram <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a>.
 </div>
 
-* * *
    
 <!-- 뱃지 -->
 <h2>✏Skills</h2>
@@ -60,22 +59,19 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
 </div>
    
-* * *
 
 <!-- 경력 -->
 <h2>💼Careers</h2>
 
-* * *
 
 <!-- 프로젝트 -->
 <h2>📝Projects</h2>
 
-* * *
 
 <!-- 연락처 -->
 <h2>📞Contact</h2>
 
-* * *
+
 
 <!-- GitHub 사용 언어 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabaem)](https://github.com/mabaem/github-readme-stats)
