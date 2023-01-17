@@ -20,6 +20,7 @@
 <div>
 <!-- GitHub스탯 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabaem&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabaem&show_icons=true&theme=radical)
 </div>
 
 ***
@@ -35,16 +36,22 @@ public class BootSpringBootApplication {
 ***
 
 <!-- 백준티어 -->
+<div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeji75)](https://solved.ac/jyeji75/)
-
+</div>
+  
 ***
 
 <!-- GitHub 사용 언어 -->
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabaem)](https://github.com/mabaem/github-readme-stats)
-
+</div>
+  
 ***
 
 <!-- 방문수 -->
+<div>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmabaem&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+</div>
+  
 ***
