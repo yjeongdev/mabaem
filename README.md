@@ -1,14 +1,12 @@
 Hello World!
 
 <!-- 뱃지 -->
-<!-- 뱃지모양 plastic, flat, flat-square, for-the-badge, social -->
-
 <!-- JavaScript -->
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-
-<a href="" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-
-<a href="" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<!-- HTML5 -->
+<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<!-- CSS 3 -->
+<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
 
 <!-- GitHub스탯 -->
