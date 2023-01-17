@@ -11,7 +11,7 @@
    I have interest in analyzing system code, understanding processes and user experience.   <br>
 </div>
 <br>
-* * *
+
    
 <!-- 뱃지 -->
 <h3>✏ Skills</h3>
@@ -41,7 +41,7 @@
   <!-- PostgreSQL -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a>
 </div>
-   
+<br>   
 
 <h3>⛏Tools</h3>
 <br>  
@@ -63,10 +63,10 @@
 <h3>💼 Careers</h3>
 <br>
 <div>
-   
+   December 2022 ~ : Web Developer <a href="www.innofactory.net">@Innofactory</a><br>
 </div>
+<br>
 
-* * *
 
 <!-- 프로젝트 -->
 <h3>📝 Projects</h3>
@@ -74,8 +74,8 @@
 <div>
    
 </div>
+<br>
 
-* * *
 
 <!-- 연락처 -->
 <h3>📞 Contact</h3>
@@ -85,17 +85,15 @@
    instagram : <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a>
 </div>
 <br>
-* * *
+
 
 <!-- GitHub 사용 언어 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabaem)](https://github.com/mabaem/github-readme-stats)
 
-* * *
 
 <!-- 백준티어 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeji75)](https://solved.ac/jyeji75/)
 
 <!-- 방문수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmabaem&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
-* * *
+
