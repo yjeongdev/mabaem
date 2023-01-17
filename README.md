@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=0:ABD4BE,100:8CAD9C&height=200&section=header&text=&fontSize=65)
 
 <!-- 인사말 -->
-<h2>💁🏻‍♀️About me</h2>
+<h3>💁🏻‍♀️ About me</h3>
 
 <div>
    Hello World!   
@@ -15,7 +15,7 @@
 
    
 <!-- 뱃지 -->
-<h2>✏Skills</h2>
+<h3>✏ Skills</h3>
    
 <div>
   <!-- JAVA -->
@@ -44,7 +44,7 @@
 </div>
    
 
-<h2>⛏Tools</h2>
+<h3>⛏Tools</h3>
    
 <div>
   <!-- Eclipse IDE -->
@@ -61,15 +61,15 @@
    
 
 <!-- 경력 -->
-<h2>💼Careers</h2>
+<h3>💼 Careers</h3>
 
 
 <!-- 프로젝트 -->
-<h2>📝Projects</h2>
+<h3>📝 Projects</h3>
 
 
 <!-- 연락처 -->
-<h2>📞Contact</h2>
+<h3>📞 Contact</h3>
 
 
 
