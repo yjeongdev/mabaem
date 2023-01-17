@@ -5,12 +5,12 @@
 <h2>💁🏻‍♀️About me</h2>
 <div>
    
-   Hello World!
-   Welcome to my GitHub Repository.
-   My name is Yeji Jeong. I'm a Web Developer in South Korea.
-   I have interest in analyzing system code, understanding processes and user experience.
+   Hello World!   
+   Welcome to my GitHub Repository.   
+   My name is Yeji Jeong. I'm a Web Developer in South Korea.   
+   I have interest in analyzing system code, understanding processes and user experience.      
       
-   Send "Hello World!" to my instagram <a href="https://www.instagram.com/ma_baem/" target="_blank"> * @ma_baem * </a>
+   Send "Hello World!" to my instagram <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a>
    
 </div>
 
