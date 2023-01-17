@@ -27,4 +27,4 @@
 
 
 <!-- 푸터 -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ABD4BE,100:8CAD9C&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=Rect&color=0:ABD4BE,100:8CAD9C&height=200&section=footer)
