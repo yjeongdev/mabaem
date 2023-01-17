@@ -8,9 +8,7 @@
    Hello World!   
    Welcome to my GitHub Repository.      
    My name is Yeji Jeong. I'm a Web Developer in South Korea.      
-   I have interest in analyzing system code, understanding processes and user experience.         
-      
-   Send "Hello World!" to me on instagram <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a>.
+   I have interest in analyzing system code, understanding processes and user experience.   
 </div>
 
    
@@ -62,16 +60,25 @@
 
 <!-- 경력 -->
 <h3>💼 Careers</h3>
-
+<div>
+   
+</div>
 
 <!-- 프로젝트 -->
 <h3>📝 Projects</h3>
+<div>
+   
+</div>
 
 
 <!-- 연락처 -->
 <h3>📞 Contact</h3>
+<div>
+   e-mail : <jyeji75@gmail.com> 
+   instagram : <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a>
+</div>
 
-
+* * *
 
 <!-- GitHub 사용 언어 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabaem)](https://github.com/mabaem/github-readme-stats)
@@ -84,4 +91,4 @@
 <!-- 방문수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmabaem&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
- ***
+* * *
