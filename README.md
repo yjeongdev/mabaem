@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=Slice&color=0:ABD4BE,100:748F80&height=200&section=header&text=Hello%World&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=0:ABD4BE,100:8CAD9C&height=200&section=header&text=Hello%World&fontSize=80)
 
 <!-- 뱃지 -->
 <h2>Skills</h2>
@@ -27,4 +27,4 @@
 
 
 <!-- 푸터 -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ABD4BE,100:8CAD9C&height=200&section=footer)
