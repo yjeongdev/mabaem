@@ -5,7 +5,7 @@
 <h2>✏Skills</h2>
 <div>
   <!-- JAVA -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a>
   <!-- Spring -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   <!-- JavaScript -->
@@ -31,7 +31,7 @@
   <!-- Subversion -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white"/></a>
   <!-- Bootstrap -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
 </div>
 <div>
   <!-- Oracle -->
