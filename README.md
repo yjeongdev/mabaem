@@ -5,7 +5,7 @@ for-the-badge
 <h2>✏Skills</h2>
 <div>
   <!-- JAVA -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=black"/></a>
   <!-- Spring -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
   <!-- JavaScript -->
@@ -25,7 +25,7 @@ for-the-badge
   <!-- Eclipse IDE -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a>
   <!-- Apache Tomcat -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black"/></a> 
   <!-- GitHub -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <!-- Subversion -->
@@ -39,7 +39,7 @@ for-the-badge
   <!-- MariaDB -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/></a>
   <!-- PostgreSQL -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=black"/></a>
 </div>
    
 <h2>GitHub Stat</h2>
