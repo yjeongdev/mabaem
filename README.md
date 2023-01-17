@@ -10,6 +10,12 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <!-- CSS3 -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <!-- JQuery -->
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white"/></a>
+  <!-- JSON -->
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>
+  <!-- Spring -->
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 </div>
 
 <h2>⛏Tools</h2>
@@ -18,10 +24,12 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <!-- Subversion -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white"/></a>
- 
   <!-- Apache Tomcat -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
-  
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a> 
+  <!-- Eclipse IDE -->
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
+</div>
+<div>
   <!-- PostgreSQL -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
   <!-- Oracle -->
