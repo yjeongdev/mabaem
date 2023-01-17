@@ -11,6 +11,7 @@
    I have interest in analyzing system code, understanding processes and user experience.   
 </div>
 
+* * *
    
 <!-- 뱃지 -->
 <h3>✏ Skills</h3>
@@ -64,12 +65,15 @@
    
 </div>
 
+* * *
+
 <!-- 프로젝트 -->
 <h3>📝 Projects</h3>
 <div>
    
 </div>
 
+* * *
 
 <!-- 연락처 -->
 <h3>📞 Contact</h3>
