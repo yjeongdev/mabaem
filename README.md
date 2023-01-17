@@ -1,13 +1,16 @@
 Hello World!
 
 <!-- 뱃지 -->
-<!-- JavaScript -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<!-- HTML5 -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<!-- CSS 3 -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
+<h2>Skills</h2>
+<div>
+  <!-- JavaScript -->
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+  <!-- HTML5 -->
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <!-- CSS 3 -->
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+</div>
 
 <!-- GitHub스탯 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabaem&show_icons=true&theme=radical)
