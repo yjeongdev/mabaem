@@ -17,8 +17,8 @@ Hello World!
 <!-- GitHub스탯 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabaem&show_icons=true&theme=radical)
 
-<!-- 백준 -->
+<!-- 백준티어 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeji75)](https://solved.ac/jyeji75/)
 
-<!-- 잔디 -->
-<img src="http://mazandi.herokuapp.com/api?handle={jyeji75}&theme=warm"/>
+<!-- GitHub 사용 언어 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabaem)](https://github.com/mabaem/github-readme-stats)
