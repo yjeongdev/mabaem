@@ -4,7 +4,9 @@ Hello World!
 <!-- 뱃지모양 plastic, flat, flat-square, for-the-badge, social -->
 
 <!-- JavaScript -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=JavaScript&logoColor=#F7DF1E"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=F7DF1E"/></a>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
