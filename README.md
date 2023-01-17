@@ -74,7 +74,7 @@
 <!-- 연락처 -->
 <h3>📞 Contact</h3>
 <div>
-   e-mail : <a href="mailto:jyeji75@gmail.com">jyeji75@gmail.com</a>   
+   e-mail : <a href="mailto:jyeji75@gmail.com">jyeji75@gmail.com</a><br>
    instagram : <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a>
 </div>
 
