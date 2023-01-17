@@ -1,6 +1,19 @@
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=0:ABD4BE,100:8CAD9C&height=200&section=header&text=&fontSize=65)
 
+<!-- 인사말 -->
+<h2>💁🏻‍♀️About me</h2>
+<div>
+   
+   Hello World!
+   Welcome to my GitHub Repository.
+   My name is Yeji Jeong. I'm a Web Developer in South Korea.
+   I have interest in analyzing system code, understanding processes and user experience.
+      
+   Send "Hello World!" to my instagram <a href="https://www.instagram.com/ma_baem/" target="_blank"> * @ma_baem * </a>
+   
+</div>
+
 <!-- 뱃지 -->
 <h2>✏Skills</h2>
    
