@@ -12,6 +12,8 @@
       
    Send "Hello World!" to me on instagram <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a>.
 </div>
+
+* * *
    
 <!-- 뱃지 -->
 <h2>✏Skills</h2>
@@ -58,23 +60,27 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
 </div>
    
-***
+* * *
 
 <!-- 경력 -->
-<h2>✏Careers</h2>
+<h2>💼Careers</h2>
+
+* * *
 
 <!-- 프로젝트 -->
-<h2>✏Projects</h2>
+<h2>📝Projects</h2>
+
+* * *
 
 <!-- 연락처 -->
-<h2>✏Contact</h2>
+<h2>📞Contact</h2>
 
-***
+* * *
 
 <!-- GitHub 사용 언어 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabaem)](https://github.com/mabaem/github-readme-stats)
 
-***
+* * *
 
 <!-- 백준티어 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeji75)](https://solved.ac/jyeji75/)
