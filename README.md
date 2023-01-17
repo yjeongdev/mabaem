@@ -3,19 +3,19 @@
 
 <!-- 인사말 -->
 <h3>💁🏻‍♀️ About me</h3>
-
+<br>
 <div>
-   Hello World!   
-   Welcome to my GitHub Repository.      
-   My name is Yeji Jeong. I'm a Web Developer in South Korea.      
-   I have interest in analyzing system code, understanding processes and user experience.   
+   Hello World!  <br>
+   Welcome to my GitHub Repository.  <br>    
+   My name is Yeji Jeong. I'm a Web Developer in South Korea.  <br>    
+   I have interest in analyzing system code, understanding processes and user experience.   <br>
 </div>
 
 * * *
    
 <!-- 뱃지 -->
 <h3>✏ Skills</h3>
-   
+<br>   
 <div>
   <!-- JAVA -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>
@@ -44,7 +44,7 @@
    
 
 <h3>⛏Tools</h3>
-   
+<br>  
 <div>
   <!-- Eclipse IDE -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a>
@@ -61,6 +61,7 @@
 
 <!-- 경력 -->
 <h3>💼 Careers</h3>
+<br>
 <div>
    
 </div>
@@ -69,6 +70,7 @@
 
 <!-- 프로젝트 -->
 <h3>📝 Projects</h3>
+<br>
 <div>
    
 </div>
@@ -77,6 +79,7 @@
 
 <!-- 연락처 -->
 <h3>📞 Contact</h3>
+<br>
 <div>
    e-mail : <a href="mailto:jyeji75@gmail.com">jyeji75@gmail.com</a><br>
    instagram : <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a>
