@@ -3,17 +3,16 @@
 
 <!-- 인사말 -->
 <h2>💁🏻‍♀️About me</h2>
+
 <div>
-   
    Hello World!   
    Welcome to my GitHub Repository.   
    My name is Yeji Jeong. I'm a Web Developer in South Korea.   
    I have interest in analyzing system code, understanding processes and user experience.      
       
-   Send "Hello World!" to me on instagram * <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a> *.
-   
+   Send "Hello World!" to me on instagram <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a>.
 </div>
-
+   
 <!-- 뱃지 -->
 <h2>✏Skills</h2>
    
@@ -61,8 +60,14 @@
    
 ***
 
-<!-- 백준티어 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeji75)](https://solved.ac/jyeji75/)
+<!-- 경력 -->
+<h2>✏Careers</h2>
+
+<!-- 프로젝트 -->
+<h2>✏Projects</h2>
+
+<!-- 연락처 -->
+<h2>✏Contact</h2>
 
 ***
 
@@ -70,6 +75,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabaem)](https://github.com/mabaem/github-readme-stats)
 
 ***
+
+<!-- 백준티어 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeji75)](https://solved.ac/jyeji75/)
 
 <!-- 방문수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmabaem&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
