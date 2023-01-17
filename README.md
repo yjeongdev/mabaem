@@ -1,6 +1,6 @@
 Hello World!
 
-#뱃지
+<!-- 뱃지 -->
 #뱃지모양 plastic, flat, flat-square, for-the-badge, social
 #<a href="뱃지클릭시 이동할 경로" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 #JavaScript
