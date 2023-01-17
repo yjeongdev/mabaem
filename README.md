@@ -10,7 +10,7 @@
    My name is Yeji Jeong. I'm a Web Developer in South Korea.   
    I have interest in analyzing system code, understanding processes and user experience.      
       
-   Send "Hello World!" to my instagram <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a>
+   Send "Hello World!" to me on instagram * <a href="https://www.instagram.com/ma_baem/" target="_blank">@ma_baem</a> *.
    
 </div>
 
@@ -60,17 +60,7 @@
 </div>
    
 ***
-   
-```java
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Yeji");
-  }
-}
-```
-   
-***
-   
+
 <!-- 백준티어 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeji75)](https://solved.ac/jyeji75/)
 
