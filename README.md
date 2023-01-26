@@ -86,13 +86,12 @@
 <br>
 <br>
 
-<div>
 <!-- GitHub 사용 언어 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabaem&theme=vue-dark)](https://github.com/mabaem/github-readme-stats)
 
 <!-- GitHub 평가 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabaem&theme=vue-dark)](https://github.com/mabaem/github-readme-stats)
-</div>
+
 <br>
 
 <!-- 백준티어 -->
