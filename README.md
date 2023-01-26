@@ -87,12 +87,9 @@
 <br>
 
 <!-- GitHub 사용 언어 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabaem&bg_color=595959&title_color=ABD4BE&text_color=FFFFFF&icon_color=ABD4BE)](https://github.com/mabaem/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabaem&theme=vue&layout=compact)](https://github.com/mabaem/github-readme-stats)
 
 <!-- GitHub 평가 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabaem&bg_color=595959&title_color=ABD4BE&text_color=FFFFFF&icon_color=ABD4BE)](https://github.com/mabaem/github-readme-stats)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabaem&theme=vue)](https://github.com/mabaem/github-readme-stats)
 
 <br>
