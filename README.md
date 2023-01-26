@@ -7,7 +7,7 @@
 <div>
    Hello World!  <br>
    Welcome to my GitHub Repository.  <br>    
-   My name is Yeji Jeong. I'm a Web Developer in South Korea.  <br>    
+   My name is Yeji Jeong, a Web Developer in South Korea.  <br>    
    I have interest in analyzing system code, understanding processes and user experience.   <br>
 </div>
 <br>
@@ -89,6 +89,11 @@
 
 <!-- GitHub 사용 언어 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabaem)](https://github.com/mabaem/github-readme-stats)
+
+<br>
+
+<!-- GitHub 평가 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabaem)](https://github.com/mabaem/github-readme-stats)
 
 <br>
 
